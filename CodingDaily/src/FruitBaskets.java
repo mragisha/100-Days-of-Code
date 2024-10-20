@@ -37,5 +37,7 @@ public class FruitBaskets {
     public static void main(String[] args) {
         int[] arr = new int[]{2,1,2};
         System.out.println(totalFruits(arr));
+
+
     }
 }
